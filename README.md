@@ -2,9 +2,9 @@
     <head>
         <title> m4 </title>
     </head>
-    <body bgcolor=green>
+    <body>
         <a> <img src="https://inkythuatso.com/uploads/thumbnails/800/2022/05/screenshot-1-06-15-58-44.jpg" height="110">
-            <table border="1" bgcolor="yellow" width="1000" >
+            <table border="1">
                  <tr>
                      <th>thông tin ami</th>
                      <th>chỗ có thông tin</th>
@@ -28,5 +28,6 @@
                 <tr>
                     <th><center>thông tin số 5</center></th>
                     <th><center><a href="google.com/search?q=ami+là+gì&rlz=1C5CHFA_enVN1039VN1039&oq=ami+là+gì&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDMxNzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"><font face =" Tahoma" size="3" color= pink> m45</font></a></center></th>
-                </tr></body>
+                </tr>
+    </body>
 </html>
