@@ -10,23 +10,23 @@
                 </tr>
                 <tr>
                     <th><center>thông tin số 1</center></th>
-                    <th><center><a href="https://cellphones.com.vn/sforum/amazon-machine-image-la-gi"><font face =" Tahoma" size="3" color= blue> m41</font></a></center></th>
+                    <th><center><a href="https://cellphones.com.vn/sforum/amazon-machine-image-la-gi"><font face =" Tahoma" size="3" color= blue> m21</font></a></center></th>
                 </tr>
                 <tr>
                     <th><center>thông tin số 2</center></th>
-                    <th><center><a href="https://magenest.com/vi/aws-ami/?srsltid=AfmBOoqYMjaKrQ2miYYnIHwtAfimTDYQhjp-JC_P8micfq3R2_30dILy"><font face =" Tahoma" size="3" color= purple> m42</font></a></center></th>
+                    <th><center><a href="https://magenest.com/vi/aws-ami/?srsltid=AfmBOoqYMjaKrQ2miYYnIHwtAfimTDYQhjp-JC_P8micfq3R2_30dILy"><font face =" Tahoma" size="3" color= purple> m22</font></a></center></th>
                 </tr>
                 <tr>
                     <th><center>thông tin số 3</center></th>
-                    <th><center><a href="https://www.reddit.com/r/webdev/comments/27q4cu/what_is_amazon_machine_images_ami_used_for_eli5/?tl=vi"><font face =" Tahoma" size="3" color= brown> m43</font></a></center></th>
+                    <th><center><a href="https://www.reddit.com/r/webdev/comments/27q4cu/what_is_amazon_machine_images_ami_used_for_eli5/?tl=vi"><font face =" Tahoma" size="3" color= brown> m23</font></a></center></th>
                 </tr>
                 <tr>
                     <th><center>thông tin số 4</center></th>
-                    <th><center><a href="https://aws.amazon.com/vi/ai/machine-learning/amis/"><font face =" Tahoma" size="3" color= orange> m44</font></a></center></th>
+                    <th><center><a href="https://aws.amazon.com/vi/ai/machine-learning/amis/"><font face =" Tahoma" size="3" color= orange> m24</font></a></center></th>
                 </tr>
                 <tr>
                     <th><center>thông tin số 5</center></th>
-                    <th><center><a href="google.com/search?q=ami+là+gì&rlz=1C5CHFA_enVN1039VN1039&oq=ami+là+gì&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDMxNzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"><font face =" Tahoma" size="3" color= pink> m45</font></a></center></th>
+                    <th><center><a href="google.com/search?q=ami+là+gì&rlz=1C5CHFA_enVN1039VN1039&oq=ami+là+gì&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDMxNzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"><font face =" Tahoma" size="3" color= pink> m25</font></a></center></th>
                 </tr>
     </body>
 </html>
