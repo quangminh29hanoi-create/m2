@@ -4,7 +4,7 @@
     </head>
     <body bgcolor=green>
         <a> <img src="https://inkythuatso.com/uploads/thumbnails/800/2022/05/screenshot-1-06-15-58-44.jpg" height="110">
-            <table border="1" >
+            <table border="1" bgcolor="yellow" width="1000" >
                  <tr>
                      <th>thông tin ami</th>
                      <th>chỗ có thông tin</th>
